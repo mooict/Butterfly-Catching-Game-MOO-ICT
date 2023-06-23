@@ -23,4 +23,4 @@ Lesson Objectives-
 
 Subsribe to the youtube Channel to create more project just like this one.
 
-[Download C# OOP Butterfly Catching Game Tutorial Assets here](https://www.mooict.com/c-tutorial-create-a-football-penalty-kick-game-in-visual-studio-with-win-forms/)
+[Download C# OOP Butterfly Catching Game Tutorial Assets here](https://www.mooict.com/create-a-butterfly-catching-game-using-c-sharp-win-forms-visual-studio/)
